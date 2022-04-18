@@ -10,12 +10,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello!i'm Mahadari Sandeep pursuing my fulltime engineering course
-          in branch of metallurgical engineering in JNTU hyderabad.
-
-          As a student some technical skills much needed.so i started to learn some
-          skills.most of the time i spend lot in code and popular JSlibrary and frameworks which are completely
-          guiding me to a developer in future.</p>
+        <h3><p>Hello!I'm M Sandeep.I'm Full Stack Developer</p></h3>
           <a href='https://sandeepmichael.github.io'>My Website</a>
 
         <h3>
